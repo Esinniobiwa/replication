@@ -1,4 +1,4 @@
-@keyframes animateSuccessTip {
+/* @keyframes animateSuccessTip {
   0% {
     width: 0;
     left: 1px;
@@ -718,7 +718,7 @@
 
 
 
-.inhype-overlay-post .post-info-dot {
+/* .inhype-overlay-post .post-info-dot {
 background-color: white;
 height: 4px;
 width: 4px;
@@ -908,7 +908,7 @@ background-color: #F4F8FC;
 #nav-below{
 /* 	display: none; */
 }
-.btn-load-more {
+/* .btn-load-more {
 margin-top: 20px;
 background: transparent !important;
 color: #0067f5 !important;
@@ -942,10 +942,10 @@ padding-right: 20px;
 @media (max-width: 480px){
 .sidebar.footer-sidebar {
 /*     padding-left: 20px;
-padding-right: 20px; */
+padding-right: 20px; */ */
 }
 }
-@media (max-width: 767px){
+med@ia (max-width: 767px){
 .single-post .page-item-title-single .inhype-post .post-title {
 font-size: var(--fontsize-post-title-large) !important;	}
 }
@@ -1294,4 +1294,4 @@ src: url('https://cowrywise.com/blog/wp-content/themes/cowrywise/fonts/br-firma/
 font-weight: bold;
 font-display: swap;
 font-style: normal;
-}
+}  */
